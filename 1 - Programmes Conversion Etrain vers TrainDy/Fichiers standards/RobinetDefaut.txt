@@ -1,0 +1,13 @@
+name=RobinetDefaut
+ebdiameo=16
+sbdiameo=14.5
+rediameo=10.9
+ebflcoef=0
+chkebpl=true
+sbflcoef=0
+chksbpl=true
+sbtad15=6
+sbtd=0.8
+reflcoef=0
+chkrepl=true
+retai15=2

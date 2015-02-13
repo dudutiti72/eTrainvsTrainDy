@@ -1,0 +1,3 @@
+Exécution : taper 'main' dans la fenêtre de commande Matlab
+
+Plus d'informations dans le document : Explications sur la conversion Etrain vers TrainDy.doc
